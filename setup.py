@@ -24,10 +24,10 @@ setup(
         "python-magic",
         "numpy",
         "tqdm",
-        "symspellpy==6.7.0",
+        "symspellpy",
         "pandas",
-        "mistune==2.0.3",
-        "lxml==4.9.1",
+        "mistune",
+        "lxml",
         "unidecode",
         "nlm-utils"        
     ],

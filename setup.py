@@ -25,7 +25,7 @@ setup(
         "numpy",
         "tqdm",
         "symspellpy==6.7.0",
-        "pandas==1.2.4",
+        "pandas",
         "mistune==2.0.3",
         "lxml==4.9.1",
         "unidecode",
